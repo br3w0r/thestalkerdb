@@ -1,1 +1,1 @@
-web: python3 root.py 
+startdb: python3 root.py 
